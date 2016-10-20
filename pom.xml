@@ -370,7 +370,10 @@ Copyright 2010 by TalkingTrends (Amsterdam, The Netherlands)
         <module>bigdata-core-test/</module>
         <module>bigdata-rdf-test/</module>
         <module>bigdata-sails-test/</module>
+<<<<<<< HEAD
         <module>blazegraph-artifacts/</module>
+=======
+>>>>>>> 64bb8ca92eb063d45d68ec920a34b5321b80e2fe
       </modules>
     </profile>
     <profile>
